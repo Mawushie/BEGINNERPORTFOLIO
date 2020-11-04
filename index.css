@@ -1,0 +1,44 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    background-color: #88aaa1ff;
+    margin: auto;
+    align-content: center;
+    font-family: Comic Sans MS;
+}
+
+.intro{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.image{
+    width: 50%;
+    height: 250px;
+    justify-content: center;
+    align-content: center;
+    display: block;
+    text-align: right;
+    padding: 30px;
+}
+
+img{
+    width: 50%;
+    height: 300px;
+    border-radius: 20%;
+}
+
+.basics{
+    margin: auto;
+}
+.content{
+    width: 80%;
+    height: 300px;
+    margin: auto;
+}
+
+h3{
+    color:  #9a4750ff;
+}
